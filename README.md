@@ -3,7 +3,11 @@
 ![Coffeasack's Hub](coffeasackhub.gif)
 
 </div>
+
 ---
+
+> [!WARNING]
+> Profile under construction.
 
 ![About me](aboutme.png)
 
