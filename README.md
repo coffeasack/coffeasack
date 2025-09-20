@@ -9,8 +9,11 @@
 > [!WARNING]
 > Profile under construction.
 
-![About me](aboutme.png)
+![About me](aboutme.png) <br>
 
+![Skills](skills.png) <br>
+
+![Contact](contact.png)
 <!--
 **coffeasack/coffeasack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
