@@ -3,6 +3,10 @@
 ![Coffeasack's Hub](coffeasackhub.gif)
 
 </div>
+---
+
+![About me](aboutme.png)
+
 <!--
 **coffeasack/coffeasack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
