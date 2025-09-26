@@ -32,7 +32,7 @@ point" on backend studies; JS, for it's use on making my designs interactive; Re
 
 **Regarding technologies that I want to learn and improve on:**
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ruby,rails,php,less,docker,wordpress,linux,arch,angular,java,cs,cpp,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,php,less,docker,wordpress,linux,arch,angular,java,cs,cpp,tailwind,sass" />
   </a>
 </div>
 
