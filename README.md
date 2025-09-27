@@ -11,7 +11,7 @@
 
 ![About me](aboutme.png) <br>
 
-Born in Brazil, São Paulo, I grew up thinking about new ways to express myself. In my life, everything I could do to let me creativity out I would do, be it drawing, writing, painting, filming, crocheting or any "ing" that you can imagine (Or maybe not?). Currently i'm learning to express myself through programming languages. **I want to become a frontend developer** since they have the most action regarding artistic choices and whatnot, but mostly to learn and grow in the field and make a career in it. My future website will have a portfolio where you'll be able to see all my drawings and artistic byproducts, so check it out when it's out!
+Born in Brazil, São Paulo, I grew up thinking about new ways to express myself. In my life, anything I could do to let my creativity out, I would do: be it drawing, writing, painting, filming or even crocheting. Currently I'm learning to express myself through programming languages. **I want to become a frontend developer** since they have the most action regarding artistic choices and whatnot, but mostly to learn and grow in the field and make a career in it. My future website will have a portfolio where you'll be able to see all my drawings and artistic byproducts, so check it out when it's out!
 
 ![Skills](skills.png) <br>
 
