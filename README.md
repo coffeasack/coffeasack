@@ -16,7 +16,7 @@ Born in Brazil, São Paulo, I grew up thinking about new ways to express myself.
 ![Skills](skills.png) <br>
 
 As of the time of writing, my current skills in technologies, ordered from "most confident" to "want to learn" is CSS, as I love design and colors; HTML, since it's needed to provide accessability I gave it a lot of attention; Python, since it was my "starting 
-point" on backend studies; JS, for it's use on making my designs interactive; React, as I used it to learn more about fast structuring of webpages (Not quite there yet, but, still, I've learned a lot!); and Typescript, as an attempt to work better with Javascript. 
+point" on backend studies; JS, for its use on making my designs interactive; React, as I used it to learn more about fast structuring of webpages (Not quite there yet, but, still, I've learned a lot!); and Typescript, as an attempt to work better with Javascript. 
 
 <div align="center">
   
